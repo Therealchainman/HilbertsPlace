@@ -3,6 +3,11 @@ Objectives:
 
 WebPages:  
 
+Payment:  
+Subjects:  
 Calendar:  
-About Tutor Page: 
+About Tutors Page: 
+Contact:  
+Videos:  
+
 
