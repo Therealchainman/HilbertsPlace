@@ -62,6 +62,10 @@ html, body {
 	margin-top: .3rem;
 	margin-bottom: 1rem;
 }
+hr {
+	width: 95%;
+	border-top: 2px solid #b4b4b4
+}
 .fa-atom {
 	color: #0846F9;
 }
@@ -71,7 +75,10 @@ html, body {
 .fa-laptop-code {
 	color: #03FFAF;
 }
-.fa-atom, .fa-infinity, .fa-laptop-code {
+.fa-magnet {
+	color: #5f6161;
+}
+.fa-atom, .fa-infinity, .fa-laptop-code, .fa-magnet {
 	font-size: 4em;
 	margin: 1rem;
 }
@@ -101,7 +108,7 @@ html, body {
 .fa-youtube {
 	color: #bb0000;
 }
-.fa-facebook-square:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover, .fa-youtube:hover {
+.fa-facebook-square:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover, .fa-youtube:hover, .fa-linkedin:hover {
 	color: #d5d5d5;
 }
 footer {
@@ -111,7 +118,7 @@ footer {
 }
 hr.light {
 	border-top: 1px solid #d5d5d5;
-	width: 75%;google
+	width: 75%;
 	margin-top: .8rem;
 	margin-bottom: 1rem;
 }
